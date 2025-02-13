@@ -4,3 +4,5 @@ Target Goal - Exploit password reset functionality to reset Carlos's password an
 
 Your credentials: wiener:peter
 Victim's username: carlos
+
+intercept the change password page using burp, the reset password token is not correctly implemented and is not checked. Change username to carlos in burp and change its password
