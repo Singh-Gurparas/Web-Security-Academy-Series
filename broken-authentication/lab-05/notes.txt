@@ -5,3 +5,5 @@ Target Goal - Enumerate a valid username and then brute-force the user's passwor
 Your credentials: wiener:peter
 
 Analysis:
+
+Check the difference in response time by selecting response received and response timing from columns
