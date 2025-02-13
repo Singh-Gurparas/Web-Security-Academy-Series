@@ -3,3 +3,5 @@ Lab 1 - Username enumeration via different responses
 Target goal: Enumerate a valid username and password to access the application.
 
 username: arkansas
+
+Intercept with burpsuite and brute force username and password using intruder
