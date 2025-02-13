@@ -6,3 +6,5 @@ Analysis:
 
 username -> autodiscover
 password -> football
+
+Check for difference in length, status and filter negative for "The username or password is incorrect"
