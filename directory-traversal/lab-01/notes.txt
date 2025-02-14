@@ -6,4 +6,6 @@ Analysis:
 
 /var/www/images/65.jpg
 
-/etc/passwd
+use /../../../etc/passwd
+
+try and check how many directories need to be traversed using /..
