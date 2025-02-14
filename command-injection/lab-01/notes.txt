@@ -4,3 +4,5 @@ Target Goal - Exploit command injection to execute whoami command.
 
 Analysis:
 
+use & whoami #
+encode this use ctrl + u
