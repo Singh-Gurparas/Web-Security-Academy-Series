@@ -8,4 +8,6 @@ Analysis:
 ../../../../etc/passwd
 use ....//....//....//....//etc/passwd
 
-../
+This method works if site strips traversal sequence non-recursively
+
+what this payload does is remove ../, but we have used ../ twice here which will still execute as normal
